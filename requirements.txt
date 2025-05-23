@@ -1,0 +1,9 @@
+matplotlib
+seaborn
+kagglehub
+pandas
+python-dotenv
+langchain-community
+langchain-chroma
+transformers
+gradio
